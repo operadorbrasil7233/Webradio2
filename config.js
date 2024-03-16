@@ -9,17 +9,17 @@
 */
 
 var settings = {
-    'radio_name': 'Brasil Hits',
+    'radio_name': 'TV MANGUEIRAL',
 
     // URL of streaming without / on the final, eg: http://streaming.com:8080
-    'url_streaming': 'https://streaming.brasilhits.com/acc',
+    'url_streaming': 'https://tvmangueiral.radiostream321.com:11232',
 
     // When choosing icecast, make sure the file 'player.log' in the document root is writeable.
     // Choose between 'shoutcast' or 'icecast'
     'streaming_type': 'icecast',
 
     // Visit https://api.vagalume.com.br/docs/ to get your API key
-    'api_key': '18fe07917957c289983464588aabddfb',
+    'api_key': 'a51627e4b13b90c6d2291a65d6cdc8a2',
 
     // Set to true to get the last songs played
     'historic': true,
